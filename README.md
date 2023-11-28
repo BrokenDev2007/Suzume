@@ -16,7 +16,8 @@ Start by **downloading** this code and upload it in your bot directory!
 Get a free API key from https://discord.gg/4mxMd3cype by running `/get api` in any channel!
 
 # Step 2
-Put your API details and Discord Bot Token inside .env file present in the directory.
+Rename the `example.env` to `.env` file and then just,
+Put your `API details` and `Discord Bot Token` inside .env file present in the directory.
 
 # Step 3 [FINAL]
 Go ahead and run the bot. When you get a *bot invite link* inside the **console**. Just use that to invite the bot into your server.
