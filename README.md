@@ -12,14 +12,14 @@ A human like AI based Discord chatbot which can respond anything about the world
 # Installation ⬇️
 Start by **downloading** this code and upload it in your bot directory!
 
-# Step 1
+# Step 1️⃣
 Get a free API key from https://discord.gg/4mxMd3cype by running `/get api` in any channel!
 
-# Step 2
-Put your API details and Discord Bot Token inside .env file present in the directory.
+# Step 2️⃣
+Put your API details and Discord Bot Token inside `.env` file present in the directory.
 
-# Step 3 [FINAL]
-Go ahead and run the bot. When you get a *bot invite link* inside the **console**. Just use that to invite the bot into your server.
+# Step 3️⃣ [FINAL]
+Go ahead and `run` the bot. When you get a `bot invite link` inside the **console**. Just use that to invite the bot into your server.
 
 # Commands 🤖
 
