@@ -1,4 +1,4 @@
-# SuzumeV1.1
+# Suzume v1.1 🌸
 A human like AI based Discord chatbot which can respond anything about the world without sounding like a robot/chatbot 🤖.
 
 **Other Features**
