@@ -26,7 +26,9 @@ Go ahead and run the bot. When you get a *bot invite link* inside the **console*
 Type `suzume` or `mention` her to start talking to her!
 
 > `/imagine` - Generated Images using difeerent image generation models which you can use.
-> `Voice Ouput` - Join a VC and give her a call by mention and ask the question, she will give the response like a assistant by coming to the VC.
+
+> `Voice Ouput` - Join a VC and give her a call by mention and ask the question, she will give the response like a assistant by coming to the VC./'
+
 > `/help` - All the other commands which you can use. [ I am just too lazy to mention them 🦥 ]
 
 
