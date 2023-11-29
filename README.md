@@ -22,7 +22,13 @@ Put your `API details` and `Discord Bot Token` inside .env file present in the d
 # Step 3 [FINAL]
 Go ahead and run the bot. When you get a *bot invite link* inside the **console**. Just use that to invite the bot into your server.
 
-# Commands 🤖
+# Commands which you all can use! 🤖
+Type `suzume` or `mention` her to start talking to her!
+
+> `/imagine` - Generated Images using difeerent image generation models which you can use.
+> `Voice Ouput` - Join a VC and give her a call by mention and ask the question, she will give the response like a assistant by coming to the VC.
+> `/help` - All the other commands which you can use. [ I am just too lazy to mention them 🦥 ]
+
 
 
 # Credits 💗
