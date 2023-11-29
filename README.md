@@ -26,3 +26,4 @@ Go ahead and run the bot. When you get a *bot invite link* inside the **console*
 
 
 # Credits 💗
+Major of the credit goes to https://github.com/mishalhossin/Discord-AI-Chatbot for the base source code!
