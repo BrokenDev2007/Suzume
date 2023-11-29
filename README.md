@@ -35,4 +35,4 @@ Type `suzume` or `mention` her to start talking to her!
 
 # Credits 💗
 Some parts of the code are taken as inspiration from many projects. So KUDOS to them for developing the base-line idea.
-Special thanks to - https://github.com/mishalhossin/Discord-AI-Chatbot 🧑‍💻
+Special thanks to - https://github.com/mishalhossin/ for given the baseline code idea. I will love contributing more on this project.
