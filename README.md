@@ -1,4 +1,4 @@
-# Suzume v1.1 🌸
+# Suzume v1.1 
 A human like AI based Discord chatbot which can respond anything about the world without sounding like a robot/chatbot 🤖.
 
 **Other Features**
@@ -32,7 +32,3 @@ Type `suzume` or `mention` her to start talking to her!
 > `/help` - All the other commands which you can use. [ I am just too lazy to mention them 🦥 ]
 
 
-
-# Credits 💗
-Some parts of the code are taken as inspiration from many projects. So KUDOS to them for developing the base-line idea.
-Special thanks to - https://github.com/mishalhossin/ for given the baseline code idea. I will love contributing more on this project.
